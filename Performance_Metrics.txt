@@ -1,0 +1,9 @@
+MODEL PERFORMANCE METRICS
+
+Accuracy: 0.867
+Precision: 0.76
+Recall: 0.42
+F1 Score: 0.54
+ROC-AUC: 0.865
+
+These metrics indicate that the model identifies churners with reasonable discrimination ability while maintaining strong overall prediction stability. The ROC-AUC score reflects good separation between churn and non-churn classes.
